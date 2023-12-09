@@ -1,4 +1,4 @@
-recaptcha.validation.secret-key: 6LfEQRETAAAAABu9BQBb7NjRoRkYBUG8wu50cSQ5
+recaptcha.validation.secret-key: 6LfQxiQpAAAAAB59_uFSzeSi6GR3t-O0e2rogQ9-
 
 logging.level:
   com.github.mkopylec: DEBUG
